@@ -31,3 +31,7 @@ microservice:
     endpoints:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder 
+        
+ logging:
+  file: E:/Spring_Boot_Microservice_Log/microservice.log
+  
